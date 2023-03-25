@@ -9,7 +9,7 @@ I am a **fullstack web** and **desktop** developer. I have over **7 years** of e
 ### What I Do ⚡
  - I enjoy reverse engineering programs and formats, mostly from games. [**Kula World**](https://en.wikipedia.org/wiki/Kula_World) is my most worked on game by far for modding! 🏖
  - I like playing older games, specifically ones from the original **PlayStation and GameCube!** 🎮
- - My favorite platform to develop for is web, I even maintain a portfolio here [**here!**](https://satial.xyz) 🎨
+ - My favorite platform to develop for is web, I even maintain a portfolio here [**here!**](https://saturnkai.dev) 🎨
  
 ---
 
