@@ -4,9 +4,9 @@
 
 I am a **fullstack web** and **desktop** developer. I have over **7 years** of experience, starting with **C# and C++.** I maintain a good amount of open-source projects, which you can find **here!** 🐬
 
-<a href="https://github.com/HalemoGPA/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaturnKai&title_color=ec7979&text_color=ffffff&icon_color=61dafb&bg_color=232323&langs_count=8&layout=compact&hide_border=true" />
- </a>
+<a href="https://github.com/SaturnKai/">
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaturnKai&title_color=ec7979&text_color=ffffff&icon_color=61dafb&bg_color=18181b&langs_count=8&layout=compact&hide_border=true" />
+</a>
 
 ---
 
