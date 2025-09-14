@@ -5,7 +5,7 @@
 I am a passionate **software engineer**, and I enjoy working on full-stack and low-level development to increase my skill in web development, reverse engineering, documentation, and **much more**.
 
 <a href="https://github.com/SaturnKai/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaturnKai&title_color=ec7979&text_color=ffffff&icon_color=61dafb&bg_color=111111&langs_count=8&layout=compact&hide_border=true" />
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaturnKai&title_color=f97316&text_color=ffffff&icon_color=61dafb&bg_color=181818&langs_count=8&layout=compact&hide_border=true" />
 </a>
 
 <br/>
@@ -31,3 +31,7 @@ Here are some of my most recent posts from my [blog](https://blog.saturnkai.dev/
 
 -   **[Exploiting the GoGuardian Widget](https://blog.saturnkai.dev/posts/goguardian-exploit/)** (June 30, 2025)
 -   **[Sentinel](https://blog.saturnkai.dev/posts/sentinel/)** (June 30, 2025)
+
+<br/>
+
+**[saturnkai.dev](https://saturnkai.dev)**
